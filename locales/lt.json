@@ -6,5 +6,6 @@
     "about_description": "Kažkas parašyta apie mus.",
     "about_cta": "Paspausk",
     "welcome.description_text": "Štai čia šioks toks tekstas",
-    "welcome.cta": "Paspausk"
+    "welcome.cta": "Paspausk",
+    "welcome.cta-2": "sveikas {{name}}"
 }
